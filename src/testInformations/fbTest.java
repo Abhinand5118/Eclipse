@@ -35,5 +35,6 @@ public class fbTest {
 		pg.forgotPasswordvalidation("7558816231");
 		pg.continuebtnclick();
 	}
+	system.out.println("hello");
 	}
 
